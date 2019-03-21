@@ -8,7 +8,7 @@ namespace WildFarm.animals.mammals
     {
         private string livingRegion;
 
-        public Mammal(string livingRegion, string name, double weight, int foodEaten) : base(name, weight, foodEaten)
+        public Mammal(string name, double weight, string livingRegion) : base(name, weight)
         {
             LivingRegion = livingRegion;
         }

@@ -1,0 +1,11 @@
+C:\C#OOP\C-OOP\05.Polymorphism-Exercises\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.deps.json
+C:\C#OOP\C-OOP\05.Polymorphism-Exercises\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.runtimeconfig.json
+C:\C#OOP\C-OOP\05.Polymorphism-Exercises\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.runtimeconfig.dev.json
+C:\C#OOP\C-OOP\05.Polymorphism-Exercises\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.dll
+C:\C#OOP\C-OOP\05.Polymorphism-Exercises\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.pdb
+C:\C#OOP\C-OOP\05.Polymorphism-Exercises\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.csprojAssemblyReference.cache
+C:\C#OOP\C-OOP\05.Polymorphism-Exercises\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.csproj.CoreCompileInputs.cache
+C:\C#OOP\C-OOP\05.Polymorphism-Exercises\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.AssemblyInfoInputs.cache
+C:\C#OOP\C-OOP\05.Polymorphism-Exercises\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.AssemblyInfo.cs
+C:\C#OOP\C-OOP\05.Polymorphism-Exercises\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.dll
+C:\C#OOP\C-OOP\05.Polymorphism-Exercises\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.pdb
