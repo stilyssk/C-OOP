@@ -1,0 +1,11 @@
+D:\C#OOP\04InterfacesAndAbstractionExercises\MultipleImplementation\bin\Debug\netcoreapp2.1\MultipleImplementation.deps.json
+D:\C#OOP\04InterfacesAndAbstractionExercises\MultipleImplementation\bin\Debug\netcoreapp2.1\MultipleImplementation.runtimeconfig.json
+D:\C#OOP\04InterfacesAndAbstractionExercises\MultipleImplementation\bin\Debug\netcoreapp2.1\MultipleImplementation.runtimeconfig.dev.json
+D:\C#OOP\04InterfacesAndAbstractionExercises\MultipleImplementation\bin\Debug\netcoreapp2.1\MultipleImplementation.dll
+D:\C#OOP\04InterfacesAndAbstractionExercises\MultipleImplementation\bin\Debug\netcoreapp2.1\MultipleImplementation.pdb
+D:\C#OOP\04InterfacesAndAbstractionExercises\MultipleImplementation\obj\Debug\netcoreapp2.1\MultipleImplementation.csprojAssemblyReference.cache
+D:\C#OOP\04InterfacesAndAbstractionExercises\MultipleImplementation\obj\Debug\netcoreapp2.1\MultipleImplementation.csproj.CoreCompileInputs.cache
+D:\C#OOP\04InterfacesAndAbstractionExercises\MultipleImplementation\obj\Debug\netcoreapp2.1\MultipleImplementation.AssemblyInfoInputs.cache
+D:\C#OOP\04InterfacesAndAbstractionExercises\MultipleImplementation\obj\Debug\netcoreapp2.1\MultipleImplementation.AssemblyInfo.cs
+D:\C#OOP\04InterfacesAndAbstractionExercises\MultipleImplementation\obj\Debug\netcoreapp2.1\MultipleImplementation.dll
+D:\C#OOP\04InterfacesAndAbstractionExercises\MultipleImplementation\obj\Debug\netcoreapp2.1\MultipleImplementation.pdb

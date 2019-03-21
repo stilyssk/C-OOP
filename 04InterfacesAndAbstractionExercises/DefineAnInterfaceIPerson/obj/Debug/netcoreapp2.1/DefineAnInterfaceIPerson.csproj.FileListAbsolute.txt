@@ -1,0 +1,10 @@
+D:\C#OOP\04InterfacesAndAbstractionExercises\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.deps.json
+D:\C#OOP\04InterfacesAndAbstractionExercises\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.runtimeconfig.json
+D:\C#OOP\04InterfacesAndAbstractionExercises\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.runtimeconfig.dev.json
+D:\C#OOP\04InterfacesAndAbstractionExercises\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.dll
+D:\C#OOP\04InterfacesAndAbstractionExercises\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.pdb
+D:\C#OOP\04InterfacesAndAbstractionExercises\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+D:\C#OOP\04InterfacesAndAbstractionExercises\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+D:\C#OOP\04InterfacesAndAbstractionExercises\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.AssemblyInfo.cs
+D:\C#OOP\04InterfacesAndAbstractionExercises\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.dll
+D:\C#OOP\04InterfacesAndAbstractionExercises\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.pdb

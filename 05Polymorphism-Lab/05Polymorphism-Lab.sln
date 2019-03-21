@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOperation", "MathOperation\MathOperation.csproj", "{0ECC5F33-D4E6-40A4-B271-63FF7DCE0210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{011A5DBE-DDB8-4881-86F3-3A88D0D9AFEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{13772133-8E30-48AE-854E-B2C83A435D55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ECC5F33-D4E6-40A4-B271-63FF7DCE0210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECC5F33-D4E6-40A4-B271-63FF7DCE0210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECC5F33-D4E6-40A4-B271-63FF7DCE0210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECC5F33-D4E6-40A4-B271-63FF7DCE0210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{011A5DBE-DDB8-4881-86F3-3A88D0D9AFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011A5DBE-DDB8-4881-86F3-3A88D0D9AFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011A5DBE-DDB8-4881-86F3-3A88D0D9AFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011A5DBE-DDB8-4881-86F3-3A88D0D9AFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13772133-8E30-48AE-854E-B2C83A435D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13772133-8E30-48AE-854E-B2C83A435D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13772133-8E30-48AE-854E-B2C83A435D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13772133-8E30-48AE-854E-B2C83A435D55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6BAB818-E89D-401D-8158-FE0C1CB349D3}
+	EndGlobalSection
+EndGlobal

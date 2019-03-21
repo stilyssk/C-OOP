@@ -1,0 +1,11 @@
+D:\C#OOP\05Polymorphism-Lab\Animals\bin\Debug\netcoreapp2.1\Animals.deps.json
+D:\C#OOP\05Polymorphism-Lab\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.json
+D:\C#OOP\05Polymorphism-Lab\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.dev.json
+D:\C#OOP\05Polymorphism-Lab\Animals\bin\Debug\netcoreapp2.1\Animals.dll
+D:\C#OOP\05Polymorphism-Lab\Animals\bin\Debug\netcoreapp2.1\Animals.pdb
+D:\C#OOP\05Polymorphism-Lab\Animals\obj\Debug\netcoreapp2.1\Animals.csprojAssemblyReference.cache
+D:\C#OOP\05Polymorphism-Lab\Animals\obj\Debug\netcoreapp2.1\Animals.csproj.CoreCompileInputs.cache
+D:\C#OOP\05Polymorphism-Lab\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfoInputs.cache
+D:\C#OOP\05Polymorphism-Lab\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfo.cs
+D:\C#OOP\05Polymorphism-Lab\Animals\obj\Debug\netcoreapp2.1\Animals.dll
+D:\C#OOP\05Polymorphism-Lab\Animals\obj\Debug\netcoreapp2.1\Animals.pdb

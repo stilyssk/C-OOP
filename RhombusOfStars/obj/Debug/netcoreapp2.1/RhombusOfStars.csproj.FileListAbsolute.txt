@@ -1,0 +1,11 @@
+D:\C#OOP\RhombusOfStars\bin\Debug\netcoreapp2.1\RhombusOfStars.deps.json
+D:\C#OOP\RhombusOfStars\bin\Debug\netcoreapp2.1\RhombusOfStars.runtimeconfig.json
+D:\C#OOP\RhombusOfStars\bin\Debug\netcoreapp2.1\RhombusOfStars.runtimeconfig.dev.json
+D:\C#OOP\RhombusOfStars\bin\Debug\netcoreapp2.1\RhombusOfStars.dll
+D:\C#OOP\RhombusOfStars\bin\Debug\netcoreapp2.1\RhombusOfStars.pdb
+D:\C#OOP\RhombusOfStars\obj\Debug\netcoreapp2.1\RhombusOfStars.csprojAssemblyReference.cache
+D:\C#OOP\RhombusOfStars\obj\Debug\netcoreapp2.1\RhombusOfStars.csproj.CoreCompileInputs.cache
+D:\C#OOP\RhombusOfStars\obj\Debug\netcoreapp2.1\RhombusOfStars.AssemblyInfoInputs.cache
+D:\C#OOP\RhombusOfStars\obj\Debug\netcoreapp2.1\RhombusOfStars.AssemblyInfo.cs
+D:\C#OOP\RhombusOfStars\obj\Debug\netcoreapp2.1\RhombusOfStars.dll
+D:\C#OOP\RhombusOfStars\obj\Debug\netcoreapp2.1\RhombusOfStars.pdb

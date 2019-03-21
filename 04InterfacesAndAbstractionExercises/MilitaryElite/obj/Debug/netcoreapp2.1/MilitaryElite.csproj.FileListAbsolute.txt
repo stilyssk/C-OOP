@@ -1,0 +1,11 @@
+D:\C#OOP\04InterfacesAndAbstractionExercises\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.deps.json
+D:\C#OOP\04InterfacesAndAbstractionExercises\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.runtimeconfig.json
+D:\C#OOP\04InterfacesAndAbstractionExercises\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.runtimeconfig.dev.json
+D:\C#OOP\04InterfacesAndAbstractionExercises\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.dll
+D:\C#OOP\04InterfacesAndAbstractionExercises\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.pdb
+D:\C#OOP\04InterfacesAndAbstractionExercises\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.csprojAssemblyReference.cache
+D:\C#OOP\04InterfacesAndAbstractionExercises\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.csproj.CoreCompileInputs.cache
+D:\C#OOP\04InterfacesAndAbstractionExercises\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.AssemblyInfoInputs.cache
+D:\C#OOP\04InterfacesAndAbstractionExercises\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.AssemblyInfo.cs
+D:\C#OOP\04InterfacesAndAbstractionExercises\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.dll
+D:\C#OOP\04InterfacesAndAbstractionExercises\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.pdb
