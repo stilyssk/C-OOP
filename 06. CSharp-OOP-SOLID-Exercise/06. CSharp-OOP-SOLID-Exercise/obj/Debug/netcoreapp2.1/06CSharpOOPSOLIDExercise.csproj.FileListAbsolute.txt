@@ -1,0 +1,11 @@
+C:\C#OOP\C-OOP\06. CSharp-OOP-SOLID-Exercise\06. CSharp-OOP-SOLID-Exercise\bin\Debug\netcoreapp2.1\06CSharpOOPSOLIDExercise.deps.json
+C:\C#OOP\C-OOP\06. CSharp-OOP-SOLID-Exercise\06. CSharp-OOP-SOLID-Exercise\bin\Debug\netcoreapp2.1\06CSharpOOPSOLIDExercise.runtimeconfig.json
+C:\C#OOP\C-OOP\06. CSharp-OOP-SOLID-Exercise\06. CSharp-OOP-SOLID-Exercise\bin\Debug\netcoreapp2.1\06CSharpOOPSOLIDExercise.runtimeconfig.dev.json
+C:\C#OOP\C-OOP\06. CSharp-OOP-SOLID-Exercise\06. CSharp-OOP-SOLID-Exercise\bin\Debug\netcoreapp2.1\06CSharpOOPSOLIDExercise.dll
+C:\C#OOP\C-OOP\06. CSharp-OOP-SOLID-Exercise\06. CSharp-OOP-SOLID-Exercise\bin\Debug\netcoreapp2.1\06CSharpOOPSOLIDExercise.pdb
+C:\C#OOP\C-OOP\06. CSharp-OOP-SOLID-Exercise\06. CSharp-OOP-SOLID-Exercise\obj\Debug\netcoreapp2.1\06CSharpOOPSOLIDExercise.csprojAssemblyReference.cache
+C:\C#OOP\C-OOP\06. CSharp-OOP-SOLID-Exercise\06. CSharp-OOP-SOLID-Exercise\obj\Debug\netcoreapp2.1\06CSharpOOPSOLIDExercise.csproj.CoreCompileInputs.cache
+C:\C#OOP\C-OOP\06. CSharp-OOP-SOLID-Exercise\06. CSharp-OOP-SOLID-Exercise\obj\Debug\netcoreapp2.1\06CSharpOOPSOLIDExercise.AssemblyInfoInputs.cache
+C:\C#OOP\C-OOP\06. CSharp-OOP-SOLID-Exercise\06. CSharp-OOP-SOLID-Exercise\obj\Debug\netcoreapp2.1\06CSharpOOPSOLIDExercise.AssemblyInfo.cs
+C:\C#OOP\C-OOP\06. CSharp-OOP-SOLID-Exercise\06. CSharp-OOP-SOLID-Exercise\obj\Debug\netcoreapp2.1\06CSharpOOPSOLIDExercise.dll
+C:\C#OOP\C-OOP\06. CSharp-OOP-SOLID-Exercise\06. CSharp-OOP-SOLID-Exercise\obj\Debug\netcoreapp2.1\06CSharpOOPSOLIDExercise.pdb
