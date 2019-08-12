@@ -1,0 +1,11 @@
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\ConsoleApp1\bin\Debug\netcoreapp2.1\P01_RhombusOfStars.deps.json
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\ConsoleApp1\bin\Debug\netcoreapp2.1\P01_RhombusOfStars.runtimeconfig.json
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\ConsoleApp1\bin\Debug\netcoreapp2.1\P01_RhombusOfStars.runtimeconfig.dev.json
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\ConsoleApp1\bin\Debug\netcoreapp2.1\P01_RhombusOfStars.dll
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\ConsoleApp1\bin\Debug\netcoreapp2.1\P01_RhombusOfStars.pdb
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\ConsoleApp1\obj\Debug\netcoreapp2.1\P01_RhombusOfStars.csprojAssemblyReference.cache
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\ConsoleApp1\obj\Debug\netcoreapp2.1\P01_RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\ConsoleApp1\obj\Debug\netcoreapp2.1\P01_RhombusOfStars.AssemblyInfoInputs.cache
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\ConsoleApp1\obj\Debug\netcoreapp2.1\P01_RhombusOfStars.AssemblyInfo.cs
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\ConsoleApp1\obj\Debug\netcoreapp2.1\P01_RhombusOfStars.dll
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\ConsoleApp1\obj\Debug\netcoreapp2.1\P01_RhombusOfStars.pdb

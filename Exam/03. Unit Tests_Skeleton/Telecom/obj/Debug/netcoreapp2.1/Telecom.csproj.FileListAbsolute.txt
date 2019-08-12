@@ -1,0 +1,11 @@
+C:\C#OOP\C-OOP\Exam\03. Unit Tests_Skeleton\Telecom\bin\Debug\netcoreapp2.1\Telecom.deps.json
+C:\C#OOP\C-OOP\Exam\03. Unit Tests_Skeleton\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.json
+C:\C#OOP\C-OOP\Exam\03. Unit Tests_Skeleton\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.dev.json
+C:\C#OOP\C-OOP\Exam\03. Unit Tests_Skeleton\Telecom\bin\Debug\netcoreapp2.1\Telecom.dll
+C:\C#OOP\C-OOP\Exam\03. Unit Tests_Skeleton\Telecom\bin\Debug\netcoreapp2.1\Telecom.pdb
+C:\C#OOP\C-OOP\Exam\03. Unit Tests_Skeleton\Telecom\obj\Debug\netcoreapp2.1\Telecom.csprojAssemblyReference.cache
+C:\C#OOP\C-OOP\Exam\03. Unit Tests_Skeleton\Telecom\obj\Debug\netcoreapp2.1\Telecom.csproj.CoreCompileInputs.cache
+C:\C#OOP\C-OOP\Exam\03. Unit Tests_Skeleton\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfoInputs.cache
+C:\C#OOP\C-OOP\Exam\03. Unit Tests_Skeleton\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfo.cs
+C:\C#OOP\C-OOP\Exam\03. Unit Tests_Skeleton\Telecom\obj\Debug\netcoreapp2.1\Telecom.dll
+C:\C#OOP\C-OOP\Exam\03. Unit Tests_Skeleton\Telecom\obj\Debug\netcoreapp2.1\Telecom.pdb

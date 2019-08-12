@@ -1,0 +1,11 @@
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.deps.json
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.runtimeconfig.json
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.runtimeconfig.dev.json
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.dll
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\ShoppingSpree\bin\Debug\netcoreapp2.1\ShoppingSpree.pdb
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.AssemblyInfoInputs.cache
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.AssemblyInfo.cs
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.dll
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.pdb
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.csprojAssemblyReference.cache

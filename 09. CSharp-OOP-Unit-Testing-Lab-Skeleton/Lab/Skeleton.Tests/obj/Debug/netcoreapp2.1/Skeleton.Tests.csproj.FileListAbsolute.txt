@@ -1,0 +1,8 @@
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.1\Skeleton.Tests.deps.json
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.1\Skeleton.Tests.dll
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.1\Skeleton.Tests.csprojAssemblyReference.cache
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.1\Skeleton.Tests.csproj.CoreCompileInputs.cache
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.1\Skeleton.Tests.AssemblyInfoInputs.cache
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.1\Skeleton.Tests.AssemblyInfo.cs
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.1\Skeleton.Tests.runtimeconfig.json
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.1\Skeleton.Tests.runtimeconfig.dev.json

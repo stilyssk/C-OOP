@@ -1,0 +1,11 @@
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P04_HotelReservation\bin\Debug\netcoreapp2.1\P04_HotelReservation.deps.json
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P04_HotelReservation\bin\Debug\netcoreapp2.1\P04_HotelReservation.runtimeconfig.json
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P04_HotelReservation\bin\Debug\netcoreapp2.1\P04_HotelReservation.runtimeconfig.dev.json
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P04_HotelReservation\bin\Debug\netcoreapp2.1\P04_HotelReservation.dll
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P04_HotelReservation\bin\Debug\netcoreapp2.1\P04_HotelReservation.pdb
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P04_HotelReservation\obj\Debug\netcoreapp2.1\P04_HotelReservation.csprojAssemblyReference.cache
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P04_HotelReservation\obj\Debug\netcoreapp2.1\P04_HotelReservation.csproj.CoreCompileInputs.cache
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P04_HotelReservation\obj\Debug\netcoreapp2.1\P04_HotelReservation.AssemblyInfoInputs.cache
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P04_HotelReservation\obj\Debug\netcoreapp2.1\P04_HotelReservation.AssemblyInfo.cs
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P04_HotelReservation\obj\Debug\netcoreapp2.1\P04_HotelReservation.dll
+C:\C#OOP\C-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P04_HotelReservation\obj\Debug\netcoreapp2.1\P04_HotelReservation.pdb

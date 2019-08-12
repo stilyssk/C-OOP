@@ -1,0 +1,10 @@
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\Collector\bin\Debug\netcoreapp2.1\Collector.deps.json
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\Collector\bin\Debug\netcoreapp2.1\Collector.runtimeconfig.json
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\Collector\bin\Debug\netcoreapp2.1\Collector.runtimeconfig.dev.json
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\Collector\bin\Debug\netcoreapp2.1\Collector.dll
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\Collector\bin\Debug\netcoreapp2.1\Collector.pdb
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\Collector\obj\Debug\netcoreapp2.1\Collector.csproj.CoreCompileInputs.cache
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\Collector\obj\Debug\netcoreapp2.1\Collector.AssemblyInfoInputs.cache
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\Collector\obj\Debug\netcoreapp2.1\Collector.AssemblyInfo.cs
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\Collector\obj\Debug\netcoreapp2.1\Collector.dll
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\Collector\obj\Debug\netcoreapp2.1\Collector.pdb

@@ -1,0 +1,11 @@
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.csprojAssemblyReference.cache
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.AssemblyInfo.cs
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.deps.json
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.runtimeconfig.json
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.runtimeconfig.dev.json
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.dll
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.pdb
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.dll
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.pdb

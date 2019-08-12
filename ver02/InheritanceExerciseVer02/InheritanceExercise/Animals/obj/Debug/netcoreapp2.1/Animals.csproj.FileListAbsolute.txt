@@ -1,0 +1,11 @@
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\Animals\bin\Debug\netcoreapp2.1\Animals.deps.json
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.json
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.dev.json
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\Animals\bin\Debug\netcoreapp2.1\Animals.dll
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\Animals\bin\Debug\netcoreapp2.1\Animals.pdb
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\Animals\obj\Debug\netcoreapp2.1\Animals.csprojAssemblyReference.cache
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\Animals\obj\Debug\netcoreapp2.1\Animals.csproj.CoreCompileInputs.cache
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfoInputs.cache
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfo.cs
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\Animals\obj\Debug\netcoreapp2.1\Animals.dll
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\Animals\obj\Debug\netcoreapp2.1\Animals.pdb

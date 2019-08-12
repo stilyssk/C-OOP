@@ -1,0 +1,11 @@
+C:\C#OOP\C-OOP\ver02\OOPReflectionAndAttributesLab\Stealer\bin\Debug\netcoreapp2.1\Stealer.deps.json
+C:\C#OOP\C-OOP\ver02\OOPReflectionAndAttributesLab\Stealer\bin\Debug\netcoreapp2.1\Stealer.runtimeconfig.json
+C:\C#OOP\C-OOP\ver02\OOPReflectionAndAttributesLab\Stealer\bin\Debug\netcoreapp2.1\Stealer.runtimeconfig.dev.json
+C:\C#OOP\C-OOP\ver02\OOPReflectionAndAttributesLab\Stealer\bin\Debug\netcoreapp2.1\Stealer.dll
+C:\C#OOP\C-OOP\ver02\OOPReflectionAndAttributesLab\Stealer\bin\Debug\netcoreapp2.1\Stealer.pdb
+C:\C#OOP\C-OOP\ver02\OOPReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp2.1\Stealer.csprojAssemblyReference.cache
+C:\C#OOP\C-OOP\ver02\OOPReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp2.1\Stealer.csproj.CoreCompileInputs.cache
+C:\C#OOP\C-OOP\ver02\OOPReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp2.1\Stealer.AssemblyInfoInputs.cache
+C:\C#OOP\C-OOP\ver02\OOPReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp2.1\Stealer.AssemblyInfo.cs
+C:\C#OOP\C-OOP\ver02\OOPReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp2.1\Stealer.dll
+C:\C#OOP\C-OOP\ver02\OOPReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp2.1\Stealer.pdb

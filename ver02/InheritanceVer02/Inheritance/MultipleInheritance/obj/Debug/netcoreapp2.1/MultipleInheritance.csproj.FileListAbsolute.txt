@@ -1,0 +1,11 @@
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\MultipleInheritance\bin\Debug\netcoreapp2.1\MultipleInheritance.deps.json
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\MultipleInheritance\bin\Debug\netcoreapp2.1\MultipleInheritance.runtimeconfig.json
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\MultipleInheritance\bin\Debug\netcoreapp2.1\MultipleInheritance.runtimeconfig.dev.json
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\MultipleInheritance\bin\Debug\netcoreapp2.1\MultipleInheritance.dll
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\MultipleInheritance\bin\Debug\netcoreapp2.1\MultipleInheritance.pdb
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\MultipleInheritance\obj\Debug\netcoreapp2.1\MultipleInheritance.csprojAssemblyReference.cache
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\MultipleInheritance\obj\Debug\netcoreapp2.1\MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\MultipleInheritance\obj\Debug\netcoreapp2.1\MultipleInheritance.AssemblyInfoInputs.cache
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\MultipleInheritance\obj\Debug\netcoreapp2.1\MultipleInheritance.AssemblyInfo.cs
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\MultipleInheritance\obj\Debug\netcoreapp2.1\MultipleInheritance.dll
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\MultipleInheritance\obj\Debug\netcoreapp2.1\MultipleInheritance.pdb

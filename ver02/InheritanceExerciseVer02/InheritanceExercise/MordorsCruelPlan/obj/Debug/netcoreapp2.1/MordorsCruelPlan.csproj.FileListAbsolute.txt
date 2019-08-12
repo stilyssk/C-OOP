@@ -1,0 +1,11 @@
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\MordorsCruelPlan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.deps.json
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\MordorsCruelPlan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.runtimeconfig.json
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\MordorsCruelPlan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.runtimeconfig.dev.json
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\MordorsCruelPlan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.dll
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\MordorsCruelPlan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.pdb
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\MordorsCruelPlan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.csprojAssemblyReference.cache
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\MordorsCruelPlan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.csproj.CoreCompileInputs.cache
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\MordorsCruelPlan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.AssemblyInfoInputs.cache
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\MordorsCruelPlan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.AssemblyInfo.cs
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\MordorsCruelPlan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.dll
+C:\C#OOP\C-OOP\InheritanceExerciseVer02\InheritanceExercise\MordorsCruelPlan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.pdb

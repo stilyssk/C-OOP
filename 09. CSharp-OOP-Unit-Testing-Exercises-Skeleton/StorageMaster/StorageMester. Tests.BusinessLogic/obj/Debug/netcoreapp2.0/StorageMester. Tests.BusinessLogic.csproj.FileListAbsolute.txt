@@ -1,0 +1,17 @@
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Exercises-Skeleton\StorageMaster\StorageMester. Tests.BusinessLogic\bin\Debug\netcoreapp2.0\StorageMester. Tests.BusinessLogic.deps.json
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Exercises-Skeleton\StorageMaster\StorageMester. Tests.BusinessLogic\bin\Debug\netcoreapp2.0\StorageMester. Tests.BusinessLogic.dll
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Exercises-Skeleton\StorageMaster\StorageMester. Tests.BusinessLogic\obj\Debug\netcoreapp2.0\StorageMester. Tests.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Exercises-Skeleton\StorageMaster\StorageMester. Tests.BusinessLogic\obj\Debug\netcoreapp2.0\StorageMester. Tests.BusinessLogic.AssemblyInfoInputs.cache
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Exercises-Skeleton\StorageMaster\StorageMester. Tests.BusinessLogic\obj\Debug\netcoreapp2.0\StorageMester. Tests.BusinessLogic.AssemblyInfo.cs
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Exercises-Skeleton\StorageMaster\StorageMester. Tests.BusinessLogic\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Exercises-Skeleton\StorageMaster\StorageMester. Tests.BusinessLogic\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Exercises-Skeleton\StorageMaster\StorageMester. Tests.BusinessLogic\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Exercises-Skeleton\StorageMaster\StorageMester. Tests.BusinessLogic\obj\Debug\netcoreapp2.0\StorageMester. Tests.BusinessLogic.csprojAssemblyReference.cache
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Exercises-Skeleton\StorageMaster\StorageMester. Tests.BusinessLogic\bin\Debug\netcoreapp2.0\StorageMester. Tests.BusinessLogic.runtimeconfig.json
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Exercises-Skeleton\StorageMaster\StorageMester. Tests.BusinessLogic\bin\Debug\netcoreapp2.0\StorageMester. Tests.BusinessLogic.runtimeconfig.dev.json
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Exercises-Skeleton\StorageMaster\StorageMester. Tests.BusinessLogic\bin\Debug\netcoreapp2.0\StorageMester. Tests.BusinessLogic.pdb
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Exercises-Skeleton\StorageMaster\StorageMester. Tests.BusinessLogic\bin\Debug\netcoreapp2.0\StorageMaster.dll
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Exercises-Skeleton\StorageMaster\StorageMester. Tests.BusinessLogic\bin\Debug\netcoreapp2.0\StorageMaster.pdb
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Exercises-Skeleton\StorageMaster\StorageMester. Tests.BusinessLogic\obj\Debug\netcoreapp2.0\StorageMester. Tests.BusinessLogic.csproj.CopyComplete
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Exercises-Skeleton\StorageMaster\StorageMester. Tests.BusinessLogic\obj\Debug\netcoreapp2.0\StorageMester. Tests.BusinessLogic.dll
+C:\C#OOP\C-OOP\09. CSharp-OOP-Unit-Testing-Exercises-Skeleton\StorageMaster\StorageMester. Tests.BusinessLogic\obj\Debug\netcoreapp2.0\StorageMester. Tests.BusinessLogic.pdb

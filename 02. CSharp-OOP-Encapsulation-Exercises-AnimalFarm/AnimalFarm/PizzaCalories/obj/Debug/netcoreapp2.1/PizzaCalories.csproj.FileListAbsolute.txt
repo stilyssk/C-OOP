@@ -1,0 +1,11 @@
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\PizzaCalories\bin\Debug\netcoreapp2.1\PizzaCalories.deps.json
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\PizzaCalories\bin\Debug\netcoreapp2.1\PizzaCalories.runtimeconfig.json
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\PizzaCalories\bin\Debug\netcoreapp2.1\PizzaCalories.runtimeconfig.dev.json
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\PizzaCalories\bin\Debug\netcoreapp2.1\PizzaCalories.dll
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\PizzaCalories\bin\Debug\netcoreapp2.1\PizzaCalories.pdb
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\PizzaCalories\obj\Debug\netcoreapp2.1\PizzaCalories.csprojAssemblyReference.cache
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\PizzaCalories\obj\Debug\netcoreapp2.1\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\PizzaCalories\obj\Debug\netcoreapp2.1\PizzaCalories.AssemblyInfoInputs.cache
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\PizzaCalories\obj\Debug\netcoreapp2.1\PizzaCalories.AssemblyInfo.cs
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\PizzaCalories\obj\Debug\netcoreapp2.1\PizzaCalories.dll
+C:\C#OOP\C-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\PizzaCalories\obj\Debug\netcoreapp2.1\PizzaCalories.pdb

@@ -1,0 +1,11 @@
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\SingleInheritance\obj\Debug\netcoreapp2.1\SingleInheritance.csproj.CoreCompileInputs.cache
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\SingleInheritance\obj\Debug\netcoreapp2.1\SingleInheritance.AssemblyInfoInputs.cache
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\SingleInheritance\obj\Debug\netcoreapp2.1\SingleInheritance.AssemblyInfo.cs
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\SingleInheritance\bin\Debug\netcoreapp2.1\SingleInheritance.deps.json
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\SingleInheritance\bin\Debug\netcoreapp2.1\SingleInheritance.runtimeconfig.json
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\SingleInheritance\bin\Debug\netcoreapp2.1\SingleInheritance.runtimeconfig.dev.json
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\SingleInheritance\bin\Debug\netcoreapp2.1\SingleInheritance.dll
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\SingleInheritance\bin\Debug\netcoreapp2.1\SingleInheritance.pdb
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\SingleInheritance\obj\Debug\netcoreapp2.1\SingleInheritance.dll
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\SingleInheritance\obj\Debug\netcoreapp2.1\SingleInheritance.pdb
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\SingleInheritance\obj\Debug\netcoreapp2.1\SingleInheritance.csprojAssemblyReference.cache

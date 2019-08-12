@@ -1,0 +1,11 @@
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\CodingTracker\bin\Debug\netcoreapp2.1\CodingTracker.deps.json
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\CodingTracker\bin\Debug\netcoreapp2.1\CodingTracker.runtimeconfig.json
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\CodingTracker\bin\Debug\netcoreapp2.1\CodingTracker.runtimeconfig.dev.json
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\CodingTracker\bin\Debug\netcoreapp2.1\CodingTracker.dll
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\CodingTracker\bin\Debug\netcoreapp2.1\CodingTracker.pdb
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\CodingTracker\obj\Debug\netcoreapp2.1\CodingTracker.csprojAssemblyReference.cache
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\CodingTracker\obj\Debug\netcoreapp2.1\CodingTracker.csproj.CoreCompileInputs.cache
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\CodingTracker\obj\Debug\netcoreapp2.1\CodingTracker.AssemblyInfoInputs.cache
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\CodingTracker\obj\Debug\netcoreapp2.1\CodingTracker.AssemblyInfo.cs
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\CodingTracker\obj\Debug\netcoreapp2.1\CodingTracker.dll
+C:\C#OOP\C-OOP\07ReflectionAndAttributesLab\CodingTracker\obj\Debug\netcoreapp2.1\CodingTracker.pdb

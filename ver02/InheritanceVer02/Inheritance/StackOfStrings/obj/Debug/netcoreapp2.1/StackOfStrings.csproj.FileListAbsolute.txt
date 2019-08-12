@@ -1,0 +1,11 @@
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.deps.json
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.runtimeconfig.json
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.runtimeconfig.dev.json
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.dll
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.pdb
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.csprojAssemblyReference.cache
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.csproj.CoreCompileInputs.cache
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.AssemblyInfoInputs.cache
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.AssemblyInfo.cs
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.dll
+C:\C#OOP\C-OOP\InheritanceVer02\Inheritance\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.pdb

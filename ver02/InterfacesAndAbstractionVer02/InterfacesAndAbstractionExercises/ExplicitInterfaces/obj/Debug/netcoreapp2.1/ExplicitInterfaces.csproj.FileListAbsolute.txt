@@ -1,0 +1,11 @@
+C:\C#OOP\C-OOP\ver02\InterfacesAndAbstractionVer02\InterfacesAndAbstractionExercises\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\C#OOP\C-OOP\ver02\InterfacesAndAbstractionVer02\InterfacesAndAbstractionExercises\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\C#OOP\C-OOP\ver02\InterfacesAndAbstractionVer02\InterfacesAndAbstractionExercises\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.AssemblyInfo.cs
+C:\C#OOP\C-OOP\ver02\InterfacesAndAbstractionVer02\InterfacesAndAbstractionExercises\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.deps.json
+C:\C#OOP\C-OOP\ver02\InterfacesAndAbstractionVer02\InterfacesAndAbstractionExercises\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.runtimeconfig.json
+C:\C#OOP\C-OOP\ver02\InterfacesAndAbstractionVer02\InterfacesAndAbstractionExercises\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.runtimeconfig.dev.json
+C:\C#OOP\C-OOP\ver02\InterfacesAndAbstractionVer02\InterfacesAndAbstractionExercises\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.dll
+C:\C#OOP\C-OOP\ver02\InterfacesAndAbstractionVer02\InterfacesAndAbstractionExercises\ExplicitInterfaces\bin\Debug\netcoreapp2.1\ExplicitInterfaces.pdb
+C:\C#OOP\C-OOP\ver02\InterfacesAndAbstractionVer02\InterfacesAndAbstractionExercises\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.csprojAssemblyReference.cache
+C:\C#OOP\C-OOP\ver02\InterfacesAndAbstractionVer02\InterfacesAndAbstractionExercises\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.dll
+C:\C#OOP\C-OOP\ver02\InterfacesAndAbstractionVer02\InterfacesAndAbstractionExercises\ExplicitInterfaces\obj\Debug\netcoreapp2.1\ExplicitInterfaces.pdb
